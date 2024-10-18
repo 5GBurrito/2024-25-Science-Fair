@@ -1,1 +1,10 @@
 - [ ] get parts
+    - [ ] RFID scanner
+    - [ ] Keypad
+    - [ ] Fillament
+- [ ] write code [see here](https://chatgpt.com/c/671267be-3f10-8007-8a5b-90ecdccadb99)
+- [ ] design and 3d print case
+- [ ] cable managment
+- [ ] make presentation
+- [ ] make website
+- [ ] make video?
