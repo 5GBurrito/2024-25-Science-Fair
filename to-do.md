@@ -2,6 +2,8 @@
     - [ ] RFID scanner
     - [ ] Keypad
     - [ ] Fillament
+    - [ ] [Heat set inserts](https://www.amazon.com/dp/B0D5V3TZLB/ref=sspa_dk_detail_0?pd_rd_i=B0D5V3TZLB&pd_rd_w=wycSJ&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=RQM86NCGRQV0DSKX1NBD&pd_rd_wg=b32QL&pd_rd_r=1ee313ee-4ca9-461e-af90-f314d0277ace&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1)
+    - [ ] M3 Screws
 - [ ] write code [see here](https://chatgpt.com/c/671267be-3f10-8007-8a5b-90ecdccadb99)
 - [ ] design and 3d print case
 - [ ] cable managment
