@@ -1,12 +1,23 @@
 - [ ] get parts
-    - [ ] RFID scanner
-    - [ ] Keypad
-    - [ ] Fillament
+    - [ ] [RFID scanner](https://www.amazon.com/WWZMDiB-2Pcs-RFID-Kit-Raspberry/dp/B0BDF6JT7M/ref=sr_1_2?sr=8-2)
+    - [ ] [Screen](https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/ref=asc_df_B019K5X53O/?hvadid=693601922380&hvpos=&hvnetw=g&hvrand=10336884354430339430&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9026794&hvtargid=pla-563014027379&mcid=d8869fd4bb8c3e78a3b0ed4cc311f13b)
+    - [ ] [Keypad](https://www.amazon.com/Tegg-Tactile-Phone-Style-Arduino-Raspberry/dp/B07RY85MGF/ref=sr_1_1?sr=8-1)
+    - [x] Fillament
     - [ ] [Heat set inserts](https://www.amazon.com/dp/B0D5V3TZLB/ref=sspa_dk_detail_0?pd_rd_i=B0D5V3TZLB&pd_rd_w=wycSJ&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=RQM86NCGRQV0DSKX1NBD&pd_rd_wg=b32QL&pd_rd_r=1ee313ee-4ca9-461e-af90-f314d0277ace&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1)
-    - [ ] M3 Screws
+    - [ ] [M3 Screws](https://www.amazon.com/Screws-Assortment-Plated-Socket-Washers/dp/B0D3X5CT2J/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - [ ] write code [see here](https://chatgpt.com/c/671267be-3f10-8007-8a5b-90ecdccadb99)
+    - [ ] main script
+    - [ ] card reading
+    - [ ] face scanning
+    - [ ] pin taking
 - [ ] design and 3d print case
-- [ ] cable managment
+    - [ ] cable managment
+    - [ ] door
+    - [ ] mounts
+        - [ ] keypad
+        - [ ] screen
+        - [ ] solenoid
+        - [ ] card reader
 - [ ] make presentation
 - [ ] make website
 - [ ] make video?
